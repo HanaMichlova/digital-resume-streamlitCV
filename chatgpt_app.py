@@ -10,13 +10,13 @@ resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Jane Doe"
+PAGE_TITLE = "Digital CV | Hana Michlova"
 PAGE_ICON = ":wave:"
-NAME = "Jane Doe"
+NAME = "Hana michlova"
 DESCRIPTION = """
 Recent graduate of the Czechitas Digital Academy Data, transitioning from marketing to data analytics, passionate about leveraging data to drive business decisions.
 """
-EMAIL = "janedoe@email.com"
+EMAIL = "michlova.hana@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/janedoe/",
     "GitHub": "https://github.com/janedoe/data-portfolio",
