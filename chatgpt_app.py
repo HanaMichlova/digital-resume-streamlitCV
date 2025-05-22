@@ -12,15 +12,14 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Hana Michlova"
 PAGE_ICON = ":wave:"
-NAME = "Hana michlova"
+NAME = "Hana Michlova"
 DESCRIPTION = """
 Recent graduate of the Czechitas Digital Academy Data, transitioning from marketing to data analytics, passionate about leveraging data to drive business decisions.
 """
 EMAIL = "michlova.hana@gmail.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://www.linkedin.com/in/janedoe/",
+    "LinkedIn": "www.linkedin.com/in/hana-michlova-90bb337b",
     "GitHub": "https://github.com/janedoe/data-portfolio",
-    "Twitter": "https://twitter.com/janedoe",
 }
 PROJECTS = {
     "Sales Dashboard - Comparing sales across three stores":
